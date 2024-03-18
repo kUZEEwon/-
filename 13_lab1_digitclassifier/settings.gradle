@@ -1,0 +1,10 @@
+
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "13_lab1_digitclassifier"
+include ':app'
